@@ -1,5 +1,5 @@
 
-# Axiom Inc. — Corporate Travel Cost Optimization (BA Case Study)
+# Axiom Inc. Corporate Travel Cost Optimization (BA Case Study)
 
 ## Overview
 End-to-end Business Analyst case study covering requirement gathering, 
@@ -71,8 +71,8 @@ Employee searches flight → selects travel class → **system checks premium cl
 
 ## Tools Used
 
-- **Tableau Desktop / Tableau Prep Builder** — dashboard and data preparation (prior phase)
-- **Draw.io** — BPMN process diagrams
-- **Microsoft Word** — Business Requirements Document
-- **Excel** — MoSCoW prioritization matrix
-- **Jira** — user story backlog structure
+- **Tableau Desktop / Tableau Prep Builder** - dashboard and data preparation (prior phase)
+- **Draw.io** - BPMN process diagrams
+- **Microsoft Word** - Business Requirements Document
+- **Excel** - MoSCoW prioritization matrix
+- **Jira** - user story backlog structure
