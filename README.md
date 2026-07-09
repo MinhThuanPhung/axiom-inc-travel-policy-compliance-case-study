@@ -1,3 +1,4 @@
+<img width="1423" height="454" alt="AsIs_Process" src="https://github.com/user-attachments/assets/b6cd9a54-c1ef-498f-a9d5-c3d1e7526c8c" />
 
 # Axiom Inc. Corporate Travel Cost Optimization (BA Case Study)
 
@@ -61,9 +62,14 @@ Although Axiom Inc. has a Tableau dashboard tracking travel cost efficiency, the
 ## Proposed Solution
 
 ### As-Is Process
+
+<img width="1423" height="454" alt="AsIs_Process" src="https://github.com/user-attachments/assets/96c32f3a-50ff-489f-a31a-e80dd0efff98" />
+
 Employee searches flight → selects travel class → confirms booking directly, with no system check against policy thresholds.
 
 ### To-Be Process
+<img width="2165" height="1259" alt="AsIs_Process (1)" src="https://github.com/user-attachments/assets/37b67ee2-581d-4348-96b7-375f63ae6289" />
+
 Employee searches flight → selects travel class → **system checks premium class rate against 35% threshold** → if compliant, booking auto-confirms; if non-compliant, booking routes to Line Manager for approval before confirmation.
 
 ### Sample User Story
