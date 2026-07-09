@@ -1,4 +1,4 @@
-<img width="1423" height="454" alt="AsIs_Process" src="https://github.com/user-attachments/assets/b6cd9a54-c1ef-498f-a9d5-c3d1e7526c8c" />
+
 
 # Axiom Inc. Corporate Travel Cost Optimization (BA Case Study)
 
