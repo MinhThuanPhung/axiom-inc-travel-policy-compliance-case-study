@@ -78,7 +78,7 @@ Employee searches flight → selects travel class → **system checks premium cl
 ## Tools Used
 
 - **Tableau Desktop / Tableau Prep Builder** - dashboard and data preparation (prior phase)
-- **Draw.io** - BPMN process diagrams
+- **Lucidchart** - BPMN process diagrams
 - **Microsoft Word** - Business Requirements Document
 - **Excel** - MoSCoW prioritization matrix
 - **Jira** - user story backlog structure
