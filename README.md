@@ -50,7 +50,8 @@ Although Axiom Inc. has a Tableau dashboard tracking travel cost efficiency, the
 | `01-dashboard/` | Source Tableau report and dashboard screenshot (prior cost analysis) |
 | `02-business-requirements/` | Business Requirements Document (BRD) |
 | `03-process-diagrams/` | As-Is and To-Be BPMN process diagrams |
-| `04-user-stories/` | Backlog of user stories with acceptance criteria |
+| `04-user-stories/` |  Backlog of user stories with acceptance criteria (backlog.xlsx), 
+mirrored in Jira for sprint planning (jira-board-screenshot.png) |
 | `05-prioritization/` | MoSCoW prioritization matrix |
 
 ## Key Findings (from prior analysis)
