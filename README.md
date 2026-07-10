@@ -75,6 +75,15 @@ Employee searches flight → selects travel class → **system checks premium cl
 
 ### Sample User Story
 > As a Line Manager, I want to be notified and asked to approve any booking that would push my department's premium class rate above 35%, so that policy violations are prevented before the cost is incurred rather than discovered afterward.
+## Sprint Planning (Jira)
+
+To simulate how this backlog would be planned and tracked in practice, the user stories 
+above were mirrored into Jira and organised into sprints by priority — Must Have stories 
+(US-001–US-003) were scheduled into Sprint 1, with Should Have and Could Have stories 
+following in subsequent sprints.
+
+<img width="1788" height="977" alt="jira-board-screenshot" src="https://github.com/user-attachments/assets/5c26a9bf-98f7-4e3a-bf34-64101b9ec75e" />
+
 
 ## Tools Used
 
